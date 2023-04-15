@@ -11,11 +11,30 @@ body {
   justify-content: center;
   height: 100vh;
   text-align: center;
-  background-image: url("blackjack-bg2.jpg");
+  background-image: url("assets/blackjack-bg2.jpg");
   background-size: cover;
   background-position: center;
   backdrop-filter: blur(15px);
   color: white;
+}
+
+#play {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 250px;
+  height: 50px;
+  border-radius: 8px;
+  border: 1px solid white;
+  background-color: green;
+  color: white;
+  font-size: large;
+  text-decoration: none;
+}
+
+#play:hover {
+  transform: scale(1.1);
+  transition: ease;
 }
 
 #spacer {
