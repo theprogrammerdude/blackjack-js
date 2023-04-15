@@ -9,5 +9,5 @@ Visit the deployed game here, [BlackJack Js](https://blackjack-js-three.vercel.a
 - JS
 
 ### TODO
-[] Add Music On Page Load
-[] Port to PWA
+[ ] Add Music On Page Load
+[ ] Port to PWA
